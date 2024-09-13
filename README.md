@@ -1,4 +1,4 @@
-# ProyectoMquinaTuring
+# ProyectoMaquinaTuring
 
 ## Compilación de los programas:
 
